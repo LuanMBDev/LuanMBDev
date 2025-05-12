@@ -6,8 +6,7 @@ Estudante de HTML e CSS
 
 Sou um entusiasta da tecnologia iniciando minha jornada no mundo da programação. Atualmente, estou estudando HTML e em breve começarei a aprender CSS, com o objetivo de me tornar um desenvolvedor frontend. Estou animado para construir projetos, aprender novas tecnologias e compartilhar minha evolução aqui no GitHub. Cada repositório será um passo no meu aprendizado! Vamos codificar?
 
-*   🌍 Estou baseado no Brasil
-*   🖥️ Veja meu portfólio no [Meu primeiro site](file:///C:/Users/luan/Documents/Pratica/index.html)
+*   🌍 Estou baseado no Brasil, São Paulo-SP
 *   ✉️ Você pode entrar em contato comigo em  [luan.sthe321@gmail.com](mailto:luan.sthe321@gmail.com)
 *   🧠 Estou aprendendo HTML/CSS
 *   🤝 Estou aberto a colaborar em projetos para desenvolvimento pessoal e colaborativo, com empenho e dedicação!
